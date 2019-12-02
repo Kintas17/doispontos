@@ -1,0 +1,10 @@
+C:\Users\P114\source\repos\doispontos\doispontos\bin\Debug\doispontos.exe.config
+C:\Users\P114\source\repos\doispontos\doispontos\bin\Debug\doispontos.exe
+C:\Users\P114\source\repos\doispontos\doispontos\bin\Debug\doispontos.pdb
+C:\Users\P114\source\repos\doispontos\doispontos\obj\Debug\doispontos.csprojAssemblyReference.cache
+C:\Users\P114\source\repos\doispontos\doispontos\obj\Debug\doispontos.Form1.resources
+C:\Users\P114\source\repos\doispontos\doispontos\obj\Debug\doispontos.Properties.Resources.resources
+C:\Users\P114\source\repos\doispontos\doispontos\obj\Debug\doispontos.csproj.GenerateResource.cache
+C:\Users\P114\source\repos\doispontos\doispontos\obj\Debug\doispontos.csproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\doispontos\doispontos\obj\Debug\doispontos.exe
+C:\Users\P114\source\repos\doispontos\doispontos\obj\Debug\doispontos.pdb
